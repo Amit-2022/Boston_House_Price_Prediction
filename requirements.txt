@@ -3,4 +3,6 @@ pandas
 scipy
 matplotlib
 sklearn
+Flask
+gunicorn
 -e .
